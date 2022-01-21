@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- config.xml --> 
+<ParametriDiConfigurazioneXML portaServerLog="8080" 
+                              ipClient="127.0.0.1" 
+                              ipServerLog="127.0.0.1" 
+                              URLDataBase="jdbc:mysql://localhost:3306/f1telemetry" 
+                              userDataBase="root" 
+                              passwordDataBase="">
+    <font>Calibri</font>
+    <dimensioneFont>16.0</dimensioneFont>
+    <dimensioniFinestra>
+        <double>1600.0</double>
+        <double>700.0</double>
+    </dimensioniFinestra>
+    <altezzaRiga>30</altezzaRiga>
+    <numeroRighe>10</numeroRighe>
+    <dimensioneTitolo>10</dimensioneTitolo>
+    <coloreSfondo>#F1F1F1</coloreSfondo>
+</ParametriDiConfigurazioneXML> 
